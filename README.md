@@ -1,6 +1,6 @@
 # CEG4110_HW1 Brian West
 ##Screen Shots
-<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162134.jpg" align="left" hspace="1" vspace="1"></a>
+<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162134.jpg" align="left" width="300" height= "600" hspace="1" vspace="1"></a>
 <img src="https://drive.google.com/open?id=1W9jLNLdkiXCxEbHhyJPh1mKmC21slzYK" align="left" hspace="10" vspace="10"></a>
 <img src="https://drive.google.com/open?id=1hiMYWfDa5FaPcFwSEIjq-Y6uRTYTOd2x" align="left" hspace="10" vspace="10"></a>
 
