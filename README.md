@@ -1,9 +1,9 @@
 # CEG4110_HW1 Brian West
 git repo: https://github.com/bwest96/CEG4110_HW1.git
 ## Screen Shots
-<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162134.jpg" align="left" width="300" height= "600" hspace="10" vspace="10"></a>
-<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162205.jpg" align="left" width="300" height= "600" hspace="10" vspace="10"></a>
-<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162231.jpg" align="left" width="300" height= "600" hspace="10" vspace="10"></a>
+<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162134.jpg" align="left" width="250" height= "500" hspace="10" vspace="10"></a>
+<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162205.jpg" align="left" width="250" height= "500" hspace="10" vspace="10"></a>
+<img src="https://github.com/bwest96/CEG4110_HW1/blob/master/SmartSelect_20180918-162231.jpg" align="left" width="250" height= "500" hspace="10" vspace="10"></a>
 
 ## Usage
 To install and run app execute app-release.apk located in the bin directory.
